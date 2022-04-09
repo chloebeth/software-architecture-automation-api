@@ -67,8 +67,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Megan Jones/source/repos/SoftwareArchitectureCLassApplication-G7/packages/boost.1.78.0/lib/native/include/boost/safe_numerics/out/build/x64-Debug",
-		"source" : "C:/Users/Megan Jones/source/repos/SoftwareArchitectureCLassApplication-G7/packages/boost.1.78.0/lib/native/include/boost/safe_numerics"
+		"build" : "C:/Users/Chloe/Documents/software-architecture-automation-api/packages/boost.1.78.0/lib/native/include/boost/safe_numerics/out/build/x64-Debug",
+		"source" : "C:/Users/Chloe/Documents/software-architecture-automation-api/packages/boost.1.78.0/lib/native/include/boost/safe_numerics"
 	},
 	"version" : 
 	{

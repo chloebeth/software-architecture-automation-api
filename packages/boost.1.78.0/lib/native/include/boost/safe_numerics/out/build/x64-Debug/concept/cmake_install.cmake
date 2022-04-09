@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Megan Jones/source/repos/SoftwareArchitectureCLassApplication-G7/packages/boost.1.78.0/lib/native/include/boost/safe_numerics/concept
+# Install script for directory: C:/Users/Chloe/Documents/software-architecture-automation-api/packages/boost.1.78.0/lib/native/include/boost/safe_numerics/concept
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/Megan Jones/Source/Repos/SoftwareArchitectureCLassApplication-G7/packages/boost.1.78.0/lib/native/include/boost/safe_numerics/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/Chloe/Documents/software-architecture-automation-api/packages/boost.1.78.0/lib/native/include/boost/safe_numerics/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
