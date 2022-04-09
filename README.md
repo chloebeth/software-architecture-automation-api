@@ -17,19 +17,19 @@ Part 3)
 The doxygen generated files for the AutomationAPI_PartBuilder can be found in html/ and in latex/	
 
 Meg Jones:
-Meg Jones  : 0.33
-Chloe Muncy: 0.33
-Jielun Cui:  0.33
+<br>    Meg Jones  : 0.33
+<br>    Chloe Muncy: 0.33
+<br>    Jielun Cui:  0.33
 
 Jielun Cui
-Meg Jones:   0.33
-Chloe Muncy: 0.33
-Jielun Cui:  0.33
+<br>    Meg Jones:   0.33
+<br>    Chloe Muncy: 0.33
+<br>    Jielun Cui:  0.33
 
 Chloe Muncy
-Meg Jones:   0.33
-Chloe Muncy: 0.33
-Jielun Cui:  0.33
+<br>    Meg Jones:   0.33
+<br>    Chloe Muncy: 0.33
+<br>    Jielun Cui:  0.33
 
 
 
