@@ -10,6 +10,12 @@ PartBuilder API creates and manages parts associated with specific bindings.
 There is nothing to explain here as this API consists of scaffolding and empty returns. 
 </remarks>*/
 
+/** @brief AutomationAPI PartBuilder
+
+    @author Chloe, Meg, Paul
+    @date April 2022
+*/
+
 namespace AutomationAPI
 {
     class Part;
@@ -21,26 +27,26 @@ namespace AutomationAPI
     class AUTOMATIONBINDING_API PartBuilder : public IBuilder
     {
     public:
-        /*! PartBuilder details. */
+        /** PartBuilder details. */
         PartBuilder();
         
-        /*! PartBuilder destructor with details. */
+        /** PartBuilder destructor with details. */
         virtual ~PartBuilder();
 
-        /*! The different types that PartBuilder can be created as. Plus, more details. */
+        /** The different types that PartBuilder can be created as. Plus, more details. */
         enum PartBuilderTypes
         {
             TypeDiagonalPart,
             TypeSquarePart
         };
 
-        /*! Returns the length of the PartBuilder. */
+        /** Returns the length of the PartBuilder. */
         void GetLength();
         
-        /*! Returns the ID of PartBuilder. */
+        /** Returns the ID of PartBuilder. */
         void GetID();
 
-        /*! Creates a new part and returns it to be used elsewhere. Plus, more details. */
+        /** Creates a new part and returns it to be used elsewhere. Plus, more details. */
         Part* CreatePart();
     };
 
